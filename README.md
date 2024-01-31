@@ -1,4 +1,47 @@
-### Hi there 👋
+### Seja Bem-vindo ao meu mundo :earth_americas:
+ Ola, me chamo Adrian Matheus.
+<br>
+
+ Sou um dev Front End iniciante, porem apaixonado pelo mundo da tecnologia e disposto a aprender e me desenvolver cada vez mais. :star2:
+
+<br>
+ Este e o espaço onde passarei todo o meu tempo, aprendendo e me desenvolvendo a cada dia, aqui onde eu transformo todos os meu sentimentos e conhecimentos em realidade. :smile:
+<br>
+<br>
+
+- Caso queira me encontrar :mailbox_with_no_mail:
+### Redes socias:
+
+
+
+<p>
+<a href="https://www.instagram.com/_adrian.mth/"> <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Instagram logo" />
+</a>
+<a href="https://www.instagram.com/_adrian.mth/"> <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Linkedin logo" />
+</a>
+</p>
+<br>
+<br>
+<br>
+<p align="left">
+
+ - Linguagens:
+</p><code><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<br>
+
+<br>
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianPGM&show_icons=true&theme=transparent)
+ <br>
+ <br>
+ <br>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianPGM&layout=compact)
+
+
+
+
 
 <!--
 **AdrianPGM/AdrianPGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
