@@ -1,11 +1,11 @@
 ### Seja Bem-vindo ao meu mundo :earth_americas:
- Ola, me chamo Adrian Matheus.
+ Olá, me chamo Adrian Matheus.
 <br>
 
- Sou um aluno do DevClub e tambem um dev Front End iniciante, porem apaixonado pelo mundo da tecnologia e disposto a aprender e me desenvolver cada vez mais. :star2:
+ Sou um aluno do DevClub, e tambem um desenvolvedor Front End apaixonado pelo mundo da tecnologia e disposto a aprender e me desenvolver cada vez mais. :star2:
 
 <br>
- Este e o espaço onde passarei todo o meu tempo, aprendendo e me desenvolvendo a cada dia, aqui onde eu transformo todos os meu sentimentos e conhecimentos em realidade. :smile:
+ Este é o espaço onde passarei todo o meu tempo, aprendendo e me desenvolvendo a cada dia, aqui onde eu transformo todos os meu sentimentos e conhecimentos em realidade. :smile:
 <br>
 <br>
 
