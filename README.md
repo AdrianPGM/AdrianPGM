@@ -17,7 +17,7 @@
 <p>
 <a href="https://www.instagram.com/_adrian.mth/"> <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Instagram logo" />
 </a>
-<a href="https://www.linkedin.com/in/adrian-oliveira-74801b2b2/"> <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Linkedin logo" />
+<a href="www.linkedin.com/in/adrian-matheus"> <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Linkedin logo" />
 </a>
 </p>
 <br>
