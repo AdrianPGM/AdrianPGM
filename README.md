@@ -1,8 +1,8 @@
-### Seja Bem-vindo ao meu mundo :earth_americas:
+### Seja Bem-vindo ao meu mundo
  Olá, me chamo Adrian Matheus.
 <br>
 
- Sou um aluno do DevClub, e tambem um desenvolvedor Front End apaixonado pelo mundo da tecnologia e disposto a aprender e me desenvolver cada vez mais. :star2:
+ Sou um aluno do DevClub, e tambem um desenvolvedor Full stack apaixonado pelo mundo da tecnologia e disposto a aprender e me desenvolver cada vez mais.
 
 <br>
  Este é o espaço onde passarei todo o meu tempo, aprendendo e me desenvolvendo a cada dia, aqui onde eu transformo todos os meu sentimentos e conhecimentos em realidade. :smile:
@@ -26,7 +26,7 @@
 <p align="left">
 
  - Linguagens:
-</p><code><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+</p><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br>
 
 <br>
