@@ -1,59 +1,53 @@
-### Seja Bem-vindo ao meu mundo
- Olá, me chamo Adrian Matheus.
+### Olá! Me Chamo Adrian Matheus, e Bem-Vindo ao meu Mundo
+
+
+### 👩🏻‍💻 Tecnologias de Programação
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Adrian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Adrian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Adrian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Adrian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 <br>
 
- Sou um aluno do DevClub, e tambem um desenvolvedor Full stack apaixonado pelo mundo da tecnologia e disposto a aprender e me desenvolver cada vez mais.
 
-<br>
- Este é o espaço onde passarei todo o meu tempo, aprendendo e me desenvolvendo a cada dia, aqui onde eu transformo todos os meu sentimentos e conhecimentos em realidade. :smile:
-<br>
-<br>
-
-- Caso queira me encontrar :mailbox_with_no_mail:
-### Redes socias:
+### 🗄️ Databases
 
 
-
-<p>
-<a href="https://www.instagram.com/_adrian.mth/"> <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Instagram logo" />
-</a>
-<a href="https://www.linkedin.com/in/adrian-matheus/"> <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Linkedin logo" />
-</a>
-</p>
-<br>
-<br>
-<br>
-<p align="left">
-
- - Linguagens:
-</p><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<div>
+  <img align="center" alt="Adrian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
+ <img align="center" alt="Adrian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
+</div>
 <br>
 
+
+### 🛠️ Ferramentas
+
+
+<div>
+  <img align="center" alt="Adrian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+ <img align="center" alt="Adrian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+ <img align="center" alt="Adrian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+ <img align="center" alt="Adrian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+</div>
 <br>
 
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianPGM&show_icons=true&theme=transparent)
- <br>
- <br>
- <br>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianPGM&layout=compact)
+## 📊 Status GitHub
 
 
+<div>
+ <img height="180em" width="33%" src="https://github-readme-stats.vercel.app/api?username=AdrianPGM&show_icons=true&theme=dark" />
+ <img height="180em" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianPGM&layout=compact&theme=dark" />
+ <img height="180em" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianPGM&theme=dark&hide_border=true" />
 
+</div>
 
+## 🏆Troféus GitHub 
 
-<!--
-**AdrianPGM/AdrianPGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdrianPGM&theme=black&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :octocat: Socials
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@adrianlino08/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-matheus/)
