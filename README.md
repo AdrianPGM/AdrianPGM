@@ -51,3 +51,6 @@
 ## :octocat: Socials
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@adrianlino08/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-matheus/)
+
+![Snake Animation](https://raw.githubusercontent.com/AdrianPGM/AdrianPGM/output/snake.svg)
+
