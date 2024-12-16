@@ -1,5 +1,17 @@
 ### Olá! Me Chamo Adrian Matheus, e Bem-Vindos ao meu Mundo
 
+Estou a menos de um ano nesse mundo de programadores, porém sempre fui curioso e isso me ajudou e me auxilia até os dias de hoje. Por conta disso tive uma grande evolução, aumentando minha capacidade de solucionar problemas complexos e ter as mais diversas ideias para cada problema no trajeto.
+
+Domínio em HTML5, CSS3 , JavaScript e Ract, adquirindo a cada dia as competências e habilidades técnicas essenciais para criar experiências web dinâmicas e funcionais. Sou apaixonado por inovação e sempre em busca das melhores práticas de desenvolvimento, tenho compromisso com a qualidade e a otimização de processos, construindo interfaces e apis intuitivas e funcionais que agregam valor aos negócios.
+
+Além dos meus estudos, realizo projetos como Freelancer, buscando a cada dia melhorar e aumentar a minha experiência e meu conhecimento.
+
+A tecnologia move o mundo...
+
+• Whatsapp: 55 43 99971-6515 
+<br>
+• Email: adrianmatheuspgm@gmail.com
+
 
 ### 👩🏻‍💻 Tecnologias de Programação
 
