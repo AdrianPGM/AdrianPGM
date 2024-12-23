@@ -5,6 +5,26 @@ Estou a menos de um ano nesse mundo de programadores, porém sempre fui curioso 
 Além dos meus estudos, realizo projetos como Freelancer, buscando a cada dia melhorar e aumentar a minha experiência e meu conhecimento.
 
 A tecnologia move o mundo...
+<br/>
+<br/>
+<br/>
+
+
+<div>
+  <div>
+          <p>Linkedin:<p/>
+
+<a href="https://adrianpgm.github.io/Portfolio/"><img align="center" alt="Adrian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"><a/>
+
+  <div/>
+<div>
+    <p>Portifolio:<p/>
+
+  <a href="https://adrianpgm.github.io/Portfolio/"><img align="center" alt="Adrian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg">
+<a/>
+    <div/>
+<div/>
+
 
 
 ### 👩🏻‍💻 Tecnologias de Programação
@@ -57,5 +77,6 @@ A tecnologia move o mundo...
 ## :octocat: Socials
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@adrianlino08/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-matheus/)
+
 
 
