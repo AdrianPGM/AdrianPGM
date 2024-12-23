@@ -1,6 +1,6 @@
 ### Olá! Me Chamo Adrian Matheus, e Bem-Vindos ao meu Mundo
 
-Estou a menos de um ano nesse mundo de programadores, porém sempre fui curioso e isso me ajudou e me auxilia até os dias de hoje. Por conta disso tive uma grande evolução, aumentando minha capacidade de solucionar problemas complexos e ter as mais diversas ideias para cada problema no trajeto.
+Sou um Desenvolvedor Front EndE e estou a menos de um ano nesse mundo de programadores, porém sempre fui curioso e isso me ajudou e me auxilia até os dias de hoje. Por conta disso tive uma grande evolução, aumentando minha capacidade de solucionar problemas complexos e ter as mais diversas ideias para cada problema no trajeto.
 
 Além dos meus estudos, realizo projetos como Freelancer, buscando a cada dia melhorar e aumentar a minha experiência e meu conhecimento.
 
