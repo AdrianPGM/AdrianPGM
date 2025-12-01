@@ -20,7 +20,7 @@ A tecnologia move o mundo...
 <div>
     <p>Portifolio:<p/>
 
-  <a href="https://adrianpgm.github.io/Portfolio/"><img align="center" alt="Adrian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg">
+  <a href="https://adrianpgm.github.io/Portifolio/"><img align="center" alt="Adrian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg">
 <a/>
     <div/>
 <div/>
