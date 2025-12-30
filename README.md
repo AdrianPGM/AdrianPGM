@@ -64,15 +64,10 @@ A tecnologia move o mundo...
 
 
 <div>
- <img height="180em" width="33%" src="https://github-readme-stats.vercel.app/api?username=AdrianPGM&show_icons=true&theme=dark" />
- <img height="180em" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianPGM&layout=compact&theme=dark" />
  <img height="180em" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianPGM&theme=dark&hide_border=true" />
 
 </div>
 
-## 🏆Troféus GitHub 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdrianPGM&theme=black&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## :octocat: Socials
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@adrianlino08/)
